@@ -8,4 +8,4 @@ The data of the image of a 16-segment segmented detector is located in the direc
 
 The data of the ADF image is located in the directory of `layer_images`. The number in the file name is the index of the layer.
 
-The data of the electron scattering anisotropy map is located in the directory of `anisotropy_map`. The number in the file name is the index of the layer.
+The data of the electron scattering anisotropy map is located in the directory of `anisotropy_maps`. The number in the file name is the index of the layer.
