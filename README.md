@@ -1,5 +1,7 @@
 # rattling_bgg
 
+[![DOI](https://zenodo.org/badge/663502780.svg)](https://zenodo.org/badge/latestdoi/663502780)
+
 The original image data after 50-image averaging are available in binary files in NumPy `.npy` format.
 
 ## Note
